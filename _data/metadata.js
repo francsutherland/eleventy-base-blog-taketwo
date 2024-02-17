@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Eleventy Base Blog v8",
+	title: "Static Site Eleventy - Take Two",
 	url: "https://example.com/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "My first (ish) and best(ish) static template site.",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
+		name: "Franc",
+		email: "franc@hisemail.com",
 		url: "https://example.com/about-me/"
 	}
 }
